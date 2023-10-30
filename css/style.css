@@ -64,11 +64,11 @@
 }
 
 /* Show the page content after the loader is hidden */
-/*! A REMETTRE .hidden {
+.hidden {
     display: block;
     opacity: 0;
     animation: fade-in 2s ease-in-out forwards;
-  } */
+  }
 
 /* Keyframe animation to fade in the page content */
 @keyframes fade-in {
