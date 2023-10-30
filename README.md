@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img  src="./public/images/logo/ohmyfood@2x.svg" alt="Project logo"></a>
+ <img  src="./public/images/logo/ohmyfood.png" alt="Project logo"></a>
 </p>
 
 ##
@@ -10,7 +10,7 @@
 <p align="center"> Ohmyfood est une entreprise de commande de repas en ligne. Notre concept permet aux utilisateurs de composer leur propre menu et réduire leur temps d’attente dans les restaurants car leur menu est préparé à l’avance. Plus de perte de temps à consulter la carte !
 </p>
 
-[Lien vers Ohmyfood]()
+[Lien vers Ohmyfood](https://cyril-vtn.github.io/P3_OC_Dynamisez_Une_Page_Web_Avec_Des_Animations_CSS.github.io/)
 
 ## 📝 Table des matières
 
