@@ -1,0 +1,16 @@
+# Fichiers de configuration
+.vscode/
+.idea/
+
+# Fichiers de cache
+node_modules/
+dist/
+build/
+
+# Fichiers de sauvegarde
+*.bak
+*.backup
+*.swp
+
+# Fichiers de journalisation
+*.log

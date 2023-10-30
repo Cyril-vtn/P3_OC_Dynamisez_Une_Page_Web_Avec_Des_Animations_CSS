@@ -1,0 +1,57 @@
+:root {
+  --white: #FFFFFF;
+  --light-green: #99E2D0;
+  --dark-green: #008766;
+  --light-blue: #89C8FA;
+  --dark-blue: #003A68;
+  --purple: #9356DC;
+  --gray: #D2D2D2;
+  --light-gray: #F6F6F6;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  font-size: 1rem;
+  background-color: #f6f6f6;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+p {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+li {
+  list-style-type: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+}
+
+h4{
+  font-size: 18px;
+  font-weight: 500;
+}
+
+
+
+h1,
+h6 {
+  font-family: Shrikhand, Roboto, sans-serif;
+}
+
+body,
+html {
+  font-family: "Roboto", sans-serif;
+}
+

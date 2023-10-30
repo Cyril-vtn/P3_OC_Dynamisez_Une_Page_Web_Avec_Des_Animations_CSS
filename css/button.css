@@ -1,0 +1,25 @@
+.btn__container {
+  margin-top: 27px;
+  margin-bottom: 57px;
+}
+
+.btn {
+  width: 218px;
+  height: 50px;
+  border-radius: 25px;
+  background: linear-gradient(0deg, rgba(147, 86, 220, 1) 0%, rgba(255, 121, 218, 1) 100%);
+  color: var(--white);
+  font-size: 16px;
+  font-weight: medium;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+  box-shadow: rgba(0, 0, 0, 0.133) 0px 5px 15px;
+
+}
+
+.btn:hover {
+  filter: brightness(1.2);
+  box-shadow: rgba(0, 0, 0, 0.341) 0px 10px 15px;
+}
