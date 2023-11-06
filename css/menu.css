@@ -121,6 +121,7 @@ body {
   cursor: pointer;
   position: relative;
   overflow: hidden;
+  transition: all 500ms;
 }
 
 @keyframes slide {
