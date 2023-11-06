@@ -1,13 +1,20 @@
 .fill__heart {
   font-size: 12px;
+  transition: all 0.3s ease;
+}
+
+.fill__heart i {
+  background-image: linear-gradient(0deg, rgba(147, 86, 220, 1) 0%, rgba(255, 121, 218, 1) 100%);
+  transition: color 0.3s ease, font-weight 0.3s ease;
+  transition-delay: 0.3s, 0.2s;
   cursor: pointer;
+  background-clip: text;
+  -webkit-background-clip: text;
 }
 
 .fill__heart i:hover {
   z-index: 100;
   font-weight: bold;
-  background-image: linear-gradient(0deg, rgba(147, 86, 220, 1) 0%, rgba(255, 121, 218, 1) 100%);
-  background-clip: text;
-  -webkit-background-clip: text;
   color: transparent;
+  transition-delay: 0s;
 }
