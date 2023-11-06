@@ -121,8 +121,6 @@ body {
   cursor: pointer;
   position: relative;
   overflow: hidden;
-  opacity: 0;
-  right: 250px;
 }
 
 @keyframes slide {
@@ -137,23 +135,18 @@ body {
   }
 }
 
-.meals:nth-child(1) {
+#appetizers {
   animation: slide 500ms ease-in-out 0.1s forwards;
 }
 
-.meals:nth-child(2) {
+#dish {
   animation: slide 500ms ease-in-out 0.2s forwards;
   animation-delay: 0.2s;
 }
 
-.meals:nth-child(3) {
+#dessert {
   animation: slide 500ms ease-in-out 0.3s forwards;
   animation-delay: 0.3s;
-}
-
-.meals:nth-child(4) {
-  animation: slide 500ms ease-in-out 0.4s forwards;
-  animation-delay: 0.4s;
 }
 
 .meals:hover {
