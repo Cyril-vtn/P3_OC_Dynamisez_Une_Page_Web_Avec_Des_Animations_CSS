@@ -212,6 +212,11 @@ body {
   transition: all 500ms;
 }
 
+.cross i {
+  color: white;
+  font-size: 20px;
+}
+
 
 .btn_wrapper {
   display: flex;
