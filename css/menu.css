@@ -237,7 +237,7 @@ body {
 
 
 
-@media (min-width: 1440px) {
+@media (min-width: 1024px) {
   .header__img img {
     height: 383px;
   }
